@@ -1,0 +1,16 @@
+/home/owner/dojo/c#colections/boxing/bin/Debug/net5.0/boxing
+/home/owner/dojo/c#colections/boxing/bin/Debug/net5.0/boxing.deps.json
+/home/owner/dojo/c#colections/boxing/bin/Debug/net5.0/boxing.runtimeconfig.json
+/home/owner/dojo/c#colections/boxing/bin/Debug/net5.0/boxing.runtimeconfig.dev.json
+/home/owner/dojo/c#colections/boxing/bin/Debug/net5.0/boxing.dll
+/home/owner/dojo/c#colections/boxing/bin/Debug/net5.0/ref/boxing.dll
+/home/owner/dojo/c#colections/boxing/bin/Debug/net5.0/boxing.pdb
+/home/owner/dojo/c#colections/boxing/obj/Debug/net5.0/boxing.csprojAssemblyReference.cache
+/home/owner/dojo/c#colections/boxing/obj/Debug/net5.0/boxing.GeneratedMSBuildEditorConfig.editorconfig
+/home/owner/dojo/c#colections/boxing/obj/Debug/net5.0/boxing.AssemblyInfoInputs.cache
+/home/owner/dojo/c#colections/boxing/obj/Debug/net5.0/boxing.AssemblyInfo.cs
+/home/owner/dojo/c#colections/boxing/obj/Debug/net5.0/boxing.csproj.CoreCompileInputs.cache
+/home/owner/dojo/c#colections/boxing/obj/Debug/net5.0/boxing.dll
+/home/owner/dojo/c#colections/boxing/obj/Debug/net5.0/ref/boxing.dll
+/home/owner/dojo/c#colections/boxing/obj/Debug/net5.0/boxing.pdb
+/home/owner/dojo/c#colections/boxing/obj/Debug/net5.0/boxing.genruntimeconfig.cache
